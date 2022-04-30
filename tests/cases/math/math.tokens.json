@@ -1,0 +1,7 @@
+[
+  { "type": "SYMBOL", "value": "+", "column": 0, "line": 1 },
+  { "type": "NUMBER", "value": "10", "column": 0, "line": 1 },
+  { "type": "SYMBOL", "value": "*", "column": 1, "line": 2 },
+  { "type": "NUMBER", "value": "2", "column": 1, "line": 2 },
+  { "type": "NUMBER", "value": "5", "column": 1, "line": 2 }
+]

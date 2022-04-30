@@ -1,0 +1,20 @@
+[
+  { "type": "SYMBOL", "value": "x", "column": 0, "line": 1 },
+  { "type": "NUMBER", "value": "1", "column": 0, "line": 1 },
+  { "type": "NUMBER", "value": "2", "column": 0, "line": 1 },
+  { "type": "SYMBOL", "value": "x", "column": 1, "line": 2 },
+  { "type": "NUMBER", "value": "3", "column": 1, "line": 2 },
+  { "type": "SYMBOL", "value": "x", "column": 2, "line": 3 },
+  { "type": "NUMBER", "value": "4", "column": 2, "line": 3 },
+  { "type": "NUMBER", "value": "5", "column": 2, "line": 3 },
+  { "type": "NUMBER", "value": "6", "column": 2, "line": 3 },
+  { "type": "SYMBOL", "value": "x", "column": 2, "line": 4 },
+  { "type": "NUMBER", "value": "7", "column": 2, "line": 4 },
+  { "type": "NUMBER", "value": "8", "column": 2, "line": 4 },
+  { "type": "NUMBER", "value": "9", "column": 2, "line": 4 },
+  { "type": "SYMBOL", "value": "x", "column": 0, "line": 5 },
+  { "type": "NUMBER", "value": "10", "column": 0, "line": 5 },
+  { "type": "NUMBER", "value": "11", "column": 0, "line": 5 },
+  { "type": "SYMBOL", "value": "x", "column": 1, "line": 6 },
+  { "type": "NUMBER", "value": "12", "column": 1, "line": 6 }
+]
